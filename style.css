@@ -14,8 +14,7 @@
 nav img{width: 80dvw;box-shadow: purple 0px 0px 10px;
 height: 150px; border-radius: 20px;}
 nav{position: relative; justify-self: center;}
-body{background-color:#fdf2f9;
-font-family:monserat;}
+body{background-color:#fdf2f9;font-family:monserat;}
 #april{
     justify-self: center;font-size: 1.5rem;
 }
