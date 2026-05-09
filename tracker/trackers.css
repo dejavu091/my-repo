@@ -1,0 +1,46 @@
+nav img{
+    width: 200px; height: 100px;position: absolute;top: 20px;padding-left: 10px;
+}
+.nav-link{
+    display: flex;justify-content: space-between;
+    text-transform: capitalize;
+    width: 70%;position: absolute;right:10%;
+    top: 50%;
+}
+a{
+    text-decoration: none;
+    background-color: aqua;
+    border-radius: 10px;
+    padding: 5px;
+}
+a:hover{
+    cursor: pointer; background-color: green;
+}
+nav{
+    position: relative; background-color: purple; width: 100dvw;height: 150px;border-radius: 20px;position: sticky;
+}
+body{overflow-x: hidden;}
+
+
+.hero img{
+    width: 80dvw;
+    height: 500px;
+    justify-self: center;
+}
+.progress img{
+    width: 20dvw;
+}
+.latest h1{
+    color: red;
+
+}
+input{
+    width: 50dvw;
+    padding: 20px;
+    justify-self: center;
+    margin-top: 50px;
+}
+label {
+    margin-top: 100px;
+    
+}
